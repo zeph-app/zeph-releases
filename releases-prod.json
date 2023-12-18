@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2023-12-13T09:15:14.042Z",
+  "pub_date": "2023-12-18T17:50:48.114Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGl0Zm43ZDh1eDNaZzhPOHBsTWozWmQ3bmJod05hQ1c3NStJOHZLYnQwVUFYRFZaZHlhU3RGdkxTaDdYb1Q1Q3V4L3Y5UXlhMzJRclJ1Sm56Z0x1RHQ2NjBJTCtJY0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNDU4OTExCWZpbGU6WmVwaC5hcHAudGFyLmd6Cldld2VUZUdqTnN3L0tsbU5LZytzMURuQzRmSEtmRHFKWkRHcnJRMGo3ZjdLMS93Q0VHNGUrei85MjE2T2F5eFh1NFRZMGpvL3hjTys3YTFIZ2ZUTENnPT0K",
-      "url": "https://github.com/zeph-app/zeph-releases/releases/download/zeph-v0.2.0/Zeph_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGl0Zm43ZDh1eDNjTXk2ZzJ5NHZTTXUyM2NUM29WWHlBTFZEc1EyaWJaeVoveStDTDdIalNFQTJUZ3ovVjlsMUVVOFBLd3NQQnNrWEd6SkJtemxDMnVOWm5Zem5HK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyOTIxODQzCWZpbGU6WmVwaC5hcHAudGFyLmd6CitsQ3pieDUwQndtZGUxWlVvL1V0KzhpVU04NmpPZHRQb1VteUdLNUlXdENmN2liQWNkMWFjaWdteExENHVORVk1dlhISVJnUkV0Y3lnOFBBRW9ZS0FRPT0K",
+      "url": "https://github.com/zeph-app/zeph-releases/releases/download/zeph-v0.3.0/Zeph_x64.app.tar.gz"
     }
   }
 }
